@@ -20,7 +20,7 @@ Some practical tools encountered in the learning process
 | Number   |      Name     |  address |
 |:----------:|:-------------:|:------:   |
 | 1 |  在线指纹识别   | http://whatweb.bugscaner.com/look/ |
-|          |               |           |
+|    2      |     云悉指纹          |    https://www.yunsee.cn/       |
 
 <span id="jump1.1.2"><h4>(2).目录扫描</h2></span>
 |Name|地址|
