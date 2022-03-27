@@ -11,6 +11,9 @@ Some practical tools encountered in the learning process
 |:----------:|:-------------:|:------:   |
 | 1 |  在线指纹识别   | http://whatweb.bugscaner.com/look/ |
 |    2      |     云悉指纹          |    https://www.yunsee.cn/       |
+|    3     |     whatcms        |    https://whatcms.org/    |
+|    4      |     Tidersec         |  http://finger.tidesec.net/     |
+|    ssl探测     |     myssl         |    https://myssl.com/    |
 
 #### (2).目录扫描
 |Name|地址|
