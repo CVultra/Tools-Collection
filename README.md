@@ -5,7 +5,7 @@ Some practical tools encountered in the learning process
 
 ===========================================================================
 ## 信息安全
-### (一)信息探测
+### (一)在线工具和资源大全
 #### (1).CMS识别
 | Number   |      Name     |  address |
 |:----------:|:-------------:|:------:   |
@@ -28,7 +28,7 @@ Some practical tools encountered in the learning process
 
 
 ### (二)加密解密
-#### MD5解密</h4>
+#### MD5加解密
 | Number   |      address    |  address |
 |:----------:|:-------------:|:------:   |
 | 1 |  https://www.somd5.com/  | http://www.ttmd5.com/ |
@@ -39,5 +39,9 @@ Some practical tools encountered in the learning process
 |      6    |  http://t007.cn/           |     http://www.4869.com.cn/md5.html    |
 |      7    |  http://www.metools.info/code/c26.html           |        |
 
-
+#### base64加解密
+|name|在线地址|
+|:---------:|:-------:|
+|BASE64加密解密| https://base64.supfree.net/ |
+|CTF编码 |  http://www.hiencode.com/    |
 
