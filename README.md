@@ -44,6 +44,8 @@ Some practical tools encountered in the learning process
 |:---------:|:-------:|
 |BASE64加密解密| https://base64.supfree.net/ |
 |CTF编码 |  http://www.hiencode.com/    |
+|base64编解码 |  http://www.4869.com.cn/base.html   |
+
 
 
 
