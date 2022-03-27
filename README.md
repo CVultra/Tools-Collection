@@ -4,7 +4,7 @@ Some practical tools encountered in the learning process
 
 <h2>信息安全</h2>
 
-### (一)信息探测：
+### (一)信息探测
 #### CMS识别
 | Number   |      Name     |  address |
 |:----------:|:-------------:|:------:   |
@@ -13,7 +13,7 @@ Some practical tools encountered in the learning process
 
 
 
-### (二)加密解密：
+### (二)加密解密
 #### MD5解密
 | Number   |      address    |  address |
 |:----------:|:-------------:|:------:   |
