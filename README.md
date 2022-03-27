@@ -14,6 +14,8 @@ Some practical tools encountered in the learning process
 |    3     |     whatcms        |    https://whatcms.org/    |
 |    4      |     Tidersec         |  http://finger.tidesec.net/     |
 |    ssl探测     |     myssl         |    https://myssl.com/    |
+|    ssl探测     |       |   https://www.trustasia.com/   |
+|    ssl探测     |            |    https://spyse.com/tools/ssl-lookup   |
 
 #### (2).目录扫描
 |Name|地址|
