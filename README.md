@@ -62,9 +62,11 @@ Some practical tools encountered in the learning process
 
 ## 逆向分析工具
 
-|------|-------|
+| 名称 | 下载地址 |
 |:-----:|:------|
 |  OllyDbg |下载地址：https://down.52pojie.cn/Tools/Debuggers/ |
+|  WinDbg |下载地址：https://down.52pojie.cn/Tools/Debuggers/ |
+
 
 
 
