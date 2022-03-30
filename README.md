@@ -74,12 +74,6 @@ Some practical tools encountered in the learning process
 
 
 
-## 其他问题
-
-| 问题 | 解决方法 |
-|:-----:|:------|
-|  解决MySQL无法登录，重置MySQL密码 |https://juejin.cn/post/7080796322831269896 |
-|     |   |
 
 
 
