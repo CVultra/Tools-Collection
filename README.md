@@ -57,10 +57,10 @@ Some practical tools encountered in the learning process
 
 
 ## Web安全工具
-| 名称|下载地址| 使用 |
-|:---------:|:-------|:-------|
-|Goby| https://gobies.org/ |  |
-| xray|    https://github.com/chaitin/xray |      |
+|漏洞扫描工具| 名称|下载地址| 使用 |
+|:---------|:---------:|:-------|:-------|
+| |Goby| https://gobies.org/ |  |
+| | xray|    https://github.com/chaitin/xray |      |
 
 
 
