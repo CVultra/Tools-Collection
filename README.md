@@ -62,7 +62,9 @@ Some practical tools encountered in the learning process
 | |Goby| https://gobies.org/ |  |
 | | xray|    https://github.com/chaitin/xray |      |
 
-
+|SQL注入|  工具名称 | 下载地址 |   使用方法|
+|:---:|:-----|:----|:---|
+| |sqlmap | https://sqlmap.org/|
 
 
 ## 逆向分析工具
