@@ -6,7 +6,7 @@ Some practical tools encountered in the learning process
 
 ===========================================================================
 ## 在线工具和资源大全
-### (一)信息探测
+### (一)信息探测收集
 #### (1).CMS识别
 | Number   |      Name     |  address |
 |:----------:|:-------------:|:------:   |
@@ -26,11 +26,11 @@ Some practical tools encountered in the learning process
 
 
 
-#### (3).IP查询
+#### (3).域名IP查询
 |在线地址|在线地址|
 |:---------:|:-------:|
 |http://www.4869.com.cn/ip.html|https://www.123cha.com/|
-|https://www.ipip.net/ |      |
+|https://www.ipip.net/ |  Whois查询--爱站网: https://whois.aizhan.com/    |
 
 
 ### (二)加密解密
