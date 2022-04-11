@@ -31,6 +31,7 @@ Some practical tools encountered in the learning process
 |:---------:|:-------:|
 |http://www.4869.com.cn/ip.html|https://www.123cha.com/|
 |https://www.ipip.net/ |  Whois查询--爱站网: https://whois.aizhan.com/    |
+| |  Whois查询--站长之家: https://whois.chinaz.com/   |
 
 
 ### (二)加密解密
