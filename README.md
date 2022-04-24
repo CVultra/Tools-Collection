@@ -67,6 +67,9 @@ Some practical tools encountered in the learning process
 |:---:|:-----|:----|:---|
 | |sqlmap | https://sqlmap.org/|
 
+|密码生成|  工具名称 | 
+|:---:|:-----|
+| |社会工程学密码生成器 | https://xingchen.pythonanywhere.com/index|
 
 ## 逆向分析工具
 
