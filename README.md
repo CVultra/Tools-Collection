@@ -81,7 +81,7 @@ Some practical tools encountered in the learning process
 
 
 ## 免费节点订阅
-- PS：大家多给提供节点的开发者 star
+- PS：麻烦大家给提供节点的开发者 star一下
 
 |地址|
 |:-------:|
