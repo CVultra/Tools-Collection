@@ -80,7 +80,11 @@ Some practical tools encountered in the learning process
 
 
 
-
+## 免费节点订阅
+- PS：大家多给提供节点的开发者 star
+|地址|
+|:-------|
+| https://github.com/wms521125/freevpn |
 
 
 
